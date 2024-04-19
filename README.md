@@ -18,4 +18,5 @@
 5. The program will display system information, running processes, disk partitions, and other details.
 6. Follow the on-screen instructions to view the collected information.
 7. Name: Dias Kukeshev
+   
    Group: SE-2227
